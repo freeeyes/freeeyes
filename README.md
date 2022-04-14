@@ -9,27 +9,8 @@
 </h4>
 <hr>
 
-<p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=freeeyes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-</p>
-
-<p align="center">
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=freeeyes&include_all_commits=true&hide_border=true&theme=dark"/>
-</p>
-
-<p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freeeyes&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
-</p>
-
-<!--- <h4 align="center">Most used languages by Lines of Code (in the last year only)</h4>
-<p align="center">
-	<img width="450em" src="https://api.githubtrends.io/user/svg/formidablae/langs?time_range=one_year&loc_metric=changed&theme=dark">
-</p> -->
-
-# Contributions
-<h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
-	</a>
-</p>
+[![](https://raw.githubusercontent.com/freeeyes/github-profile-summary-cards/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/freeeyes/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/freeeyes/github-profile-summary-cards/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/freeeyes/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/freeeyes/github-profile-summary-cards/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/freeeyes/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/freeeyes/github-profile-summary-cards/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/freeeyes/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/freeeyes/github-profile-summary-cards/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/freeeyes/github-profile-summary-cards)
